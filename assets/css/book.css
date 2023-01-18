@@ -104,13 +104,17 @@ html {
     display: block;
   }
 
-  .sub_btn{
+.sub_btn{
   
     font-size: 20px;
     background-color: #141e30;
-    color: white;
-    border: 2px solid white; 
+    color: #03e9f4 ;
+    border: 2px solid #03e9f4; 
     
+  }
+
+  .sub_btn:hover{
+   color: white ; 
   }
   
   .login-box a span:nth-child(1) {
